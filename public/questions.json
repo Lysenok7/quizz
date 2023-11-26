@@ -1,0 +1,102 @@
+[
+  {
+    "label": "What is the graph of a quadratic function?",
+    "answers": [
+      "Hyperbola",
+      "Parabola",
+      "Exponential",
+      "Sine wave"
+    ],
+    "correct": 1
+  },
+  {
+    "label": "Squere root from 169",
+    "answers": [
+      "12",
+      "14",
+      "15",
+      "13"
+    ],
+    "correct": 3
+  },
+  {
+    "label": "A line that has neither beginning nor end is called..",
+    "answers": [
+      "Line segment",
+      "Ray",
+      "Straight Line",
+      "Infinite"
+    ],
+    "correct": 2
+  },
+  {
+    "label": "If a pizza is divided into 8 equal slices, and you eat 3 slices, what fraction of the pizza have you eaten?",
+    "answers": [
+      "1/4",
+      "3/8",
+      "3/4",
+      "1/8"
+    ],
+    "correct": 1
+  },
+  {
+    "label": "What is the perimeter of a rectangle with length 10 units and width 5 units?",
+    "answers": [
+      "30",
+      "45",
+      "50",
+      "20"
+    ],
+    "correct": 0
+  },
+  {
+    "label": "What is the area of a triangle with a base of 6 meters and a height of 9 meters",
+    "answers": [
+      "12",
+      "27",
+      "34",
+      "3"
+    ],
+    "correct": 1
+  },
+  {
+    "label": "If 3x + 5 = 14, what is the value of x",
+    "answers": [
+      "1",
+      "4",
+      "3",
+      "7"
+    ],
+    "correct": 2
+  },
+  {
+    "label": "Which of the following is a prime number?",
+    "answers": [
+      "13",
+      "16",
+      "25",
+      "28"
+    ],
+    "correct": 0
+  },
+  {
+    "label": "Solve for y: 2y - 7 = 11",
+    "answers": [
+      "11",
+      "2",
+      "6",
+      "9"
+    ],
+    "correct": 3
+  },
+  {
+    "label": "If a car travels at a constant speed of 60 miles per hour, how far will it travel in 2.5 hours?",
+    "answers": [
+      "130",
+      "180",
+      "150",
+      "200"
+    ],
+    "correct": 2
+  }
+]
